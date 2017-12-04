@@ -3,11 +3,11 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/jelmervisser/PorterStemmerDutch#readme
-license:             BSD3
+license:             MIT
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+author:              Jelmer Visser
+maintainer:          viss1401@student.nhl.nl
+copyright:           2017 Jelmer Visser
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
